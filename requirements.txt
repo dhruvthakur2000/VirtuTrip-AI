@@ -1,0 +1,49 @@
+# Core Dependencies
+python-dotenv
+pydantic
+pydantic-settings
+
+# LangChain & LangGraph
+langchain
+langchain-openai
+langchain-community
+langgraph
+langsmith
+
+# Vector Database
+chromadb
+sentence-transformers
+
+# Web Framework
+streamlit
+streamlit-chat
+
+# API Clients
+openai==1.10.0
+requests==2.31.0
+googlemaps==4.10.0
+python-weather==0.4.1
+
+# Data Processing
+pandas
+numpy
+
+# Utilities
+tenacity
+aiohttp
+httpx
+
+# Logging & Monitoring
+loguru
+python-json-logger
+
+# Testing
+pytest
+pytest-asyncio
+pytest-mock
+
+# Development
+black
+flake8
+mypy
+pre-commit
